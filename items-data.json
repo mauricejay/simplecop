@@ -1,0 +1,84 @@
+{
+    "Laptops": [
+        {
+            "name": "Apple MacBook Pro 16-inch",
+            "specifications": "2.6GHz 6-Core Intel Core i7, 16GB RAM, 512GB SSD, Space Gray",
+            "price": "$2,499",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202"
+        },
+        {
+            "name": "Dell XPS 13",
+            "specifications": "10th Gen Intel Core i7-10710U, 16GB RAM, 512GB SSD, 13.3-inch FHD",
+            "price": "$1,399",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FFFdsHNRd1xMITxX_1sjUhbvF1HAIxmbZA&usqp=CAU"
+
+        },
+        {
+            "name": "HP Spectre x360",
+            "specifications": "11th Gen Intel Core i7-1165G7, 16GB RAM, 512GB SSD, 13.3-inch FHD",
+            "price": "$1,349",
+            "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07999718.png"
+
+        },
+        {
+            "name": "Lenovo ThinkPad X1 Carbon Gen 8",
+            "specifications": "10th Gen Intel Core i5-10210U, 8GB RAM, 256GB SSD, 14-inch FHD",
+            "price": "$1,199",
+            "image": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MjgwNzc3fGltYWdlL3BuZ3xoOWUvaGI4LzE0MDgwNDY4MDkwOTEwLnBuZ3w4MzIxNDk3M2E4NTA5ZjY5ZjYzYTc5ZDk3MWYwNjk3OTczNzYxMjM2MDU0ZTQ0MDBjMTU0ZmRhZWUxM2Q2ODYx/lenovo-laptop-thinkpad-x1-carbon-gen-8-hero.png"
+
+        }
+    ],
+    "Furniture": [
+        {
+            "name": "West Elm Mid-Century Modern Sofa",
+            "specifications": "80.5\"W x 34\"D x 34\"H, Twill Weave Pure White",
+            "price": "$999",
+            "image": "https://img.comfort-works.com/img/WE_ProductPageImage/monroe-mid-century-80-sofa-slipcover.jpg"
+        },
+        {
+            "name": "Pottery Barn Farmhouse Dining Table",
+            "specifications": "72\"L x 38\"W x 30\"H, Reclaimed Pine",
+            "price": "$1,199",
+            "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202237/0046/rustic-farmhouse-dining-table-c.jpg"
+        },
+        {
+            "name": "Ikea Flackarp Armchair",
+            "specifications": "31.5\"W x 31.5\"D x 32\"H, Beige",
+            "price": "$149",
+            "image": "https://www.ikea.com/gb/en/images/products/skruvsta-swivel-chair-flackarp-medium-grey__0724696_pe734578_s5.jpg?f=s"
+        },
+        {
+            "name": "CB2 Tandem Lounge Chair",
+            "specifications": "33\"W x 32.5\"D x 32\"H, Black",
+            "price": "$499",
+            "image": "https://cb2.scene7.com/is/image/CB2/item_332_118_1224_0?o9JyonuPT5OxnLH8FYNs"
+
+        }
+    ],
+    "Electronics": [
+        {
+            "name": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+            "specifications": "Black",
+            "price": "$349",
+            "image": "https://www.thepixelconnection.com/pub/media/catalog/product/cache/d7eb89fb3368aefd039e057a974f430a/1/5/1596716161_img_1398644.jpg"
+        },
+        {
+            "name": "Bose SoundLink Micro Bluetooth speaker",
+            "specifications": "Black",
+            "price": "$99",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0oLv4Vs7Rhx_71zgCbq9Jkwo6Q6fcJJmTxR_Ke9IvAohk-KpSv9CrlUVhx1_5C5Q-1M&usqp=CAU"
+        },
+        {
+            "name": "Beats by Dre Powerbeats Pro Wireless Earphones",
+            "specifications": "Ivory",
+            "price": "$199",
+            "image": "data:image/jpeg;base64,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"
+        },
+        {
+            "name": "Sonos Beam Soundbar",
+            "specifications": "White",
+            "price": "$499",
+            "image": "https://d3d71ba2asa5oz.cloudfront.net/12021657/images/177059__wws1.jpg"
+        }
+    ]
+}
